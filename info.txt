@@ -1,0 +1,8 @@
+1.Morgan-Morgan is a Node.js HTTP request logger middleware for Express applications. It automatically logs details about every HTTP request that reaches your server, making it useful for debugging, monitoring, and development.
+[Basically give log and display every port request
+]
+LFa2gLB0SELhCSZp
+2.*Axios* is a JavaScript library used to send HTTP requests to APIs.
+3.*CORS* (Cross-Origin Resource Sharing) is middleware that allows your backend to accept requests from a different website or port.
+4.cookie-parser is Express middleware that reads cookies sent by the browser and makes them available in your application
+5.Redis is an in-memory database that stores data in RAM, making it much faster than traditional databases like MongoDB or MySQL.
